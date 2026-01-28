@@ -9,19 +9,12 @@
     "lint": "tsc --noEmit",
     "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "http://local_proxy@127.0.0.1:43243/git/skaidisch/Auslastungsplanung"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.18",
+    "@tailwindcss/postcss": "^1.0.0",
     "@types/react": "^19.2.10",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.2",
